@@ -1,0 +1,8 @@
+#include "stdio.h"
+void main()
+{
+int x,y,sum;
+x=10;y=20;
+sum=x+y;
+printf("x+y=%d\n",sum);
+}
